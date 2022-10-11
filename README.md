@@ -7,7 +7,7 @@
 ### <div align="center">I'm a Data Engineer in love with Statistics 🚀</div>  
   
 
-- 👨‍💻 I’m currently working at [OLX Brasil](https://www.olx.com.br/)  
+- 👨‍💻 I’m currently working at [OLX Brasil](https://www.olx.com.br/).
   
 - 🔧 My favorite tools to go are Python and SQL. I'm also good at data analysis and linear models.
 
