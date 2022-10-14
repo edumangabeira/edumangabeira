@@ -1,6 +1,6 @@
 # 👨‍💻 [Eduardo Mangabeira](https://edumangabeira.github.io/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Mangabeira-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/edumangabeira/)](https://www.linkedin.com/in/edumangabeira/) [![GitHub followers](https://img.shields.io/github/followers/edumangabeira?label=Follow&style=social)](https://github.com/edumangabeira/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-edumangabeira-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:edu.mangaba@gmail.com)](mailto:edu.mangaba@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Mangabeira-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/edumangabeira/)](https://www.linkedin.com/in/edumangabeira/) [![GitHub followers](https://img.shields.io/github/followers/edumangabeira?label=Follow&style=social)](https://github.com/edumangabeira/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-edu.mangaba@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:edu.mangaba@gmail.com)](mailto:edu.mangaba@gmail.com) 
 
 ### Hi there 🤓
 
