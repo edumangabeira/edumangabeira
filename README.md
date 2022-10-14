@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently working at [OLX Brasil](https://www.olx.com.br/).
   
-- 🔧 My favorite tools to go are Python and SQL. I'm also good at data analysis and linear models.
+- 🔧 My favorite tools are Python and SQL. I'm also good at data analysis and linear models.
 
 - 🤖 I've built many ETL pipelines using technologies such as GCP, AWS, Airflow and Spark. 
 
