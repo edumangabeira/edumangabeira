@@ -13,7 +13,7 @@
 
 - 🤖 I've built many ETL pipelines using technologies such as GCP, AWS, Airflow and Spark. 
 
-- 📚 I’m currently learning more about Data Infrastructure and Cyber Security.
+- 📚 I’m currently learning more about Data Infrastructure and Machine Learning.
   
 - 💬 Ask me about anything via social media, I'm really open to a good conversation.  
 
