@@ -2,9 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/edumangabeira?label=Follow&style=social)](https://github.com/edumangabeira/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-edu.mangaba@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:edu.mangaba@gmail.com)](mailto:edu.mangaba@gmail.com) 
 
-### Hi there 🤓
-
-### <div align="center">I'm a Data Engineer in love with Statistics 🚀</div>  
+### <div align="center">About me</div>  
   
 
 - 👨‍💻 I’m currently working at [OLX Brasil](https://www.olx.com.br/).
