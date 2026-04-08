@@ -5,7 +5,7 @@
 ### <div align="center">About me</div>  
   
 
-- 👨‍💻 I’m currently working at [OLX Brasil](https://www.olx.com.br/).
+- 👨‍💻 I’m currently working at [Boston Consulting Group](https://www.bcg.com/).
   
 - 🔧 My favorite tools are Python and SQL. I'm also good at data analysis and linear models.
 
